@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amr on Marshall Lab</title>
+    <link>/tags/amr/</link>
+    <description>Recent content in Amr on Marshall Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/amr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Antimicrobial Tolerance and Resistance</title>
+      <link>/project/amr/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/amr/</guid>
+      <description>Using high-throughput, automated serial passaging innovations to study antimicrobial tolerance and resistance in biofilm populations. Specifically, I am interested in multi-strain and species interactions that alter antibiotic resistance outcomes.</description>
+    </item>
+    
+  </channel>
+</rss>

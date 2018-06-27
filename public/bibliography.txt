@@ -1,0 +1,207 @@
+@article{mathis2008electricity,
+  title={Electricity generation by thermophilic microorganisms from marine sediment},
+  author={Mathis, BJ and Marshall, CW and Milliken, CE and Makkar, RS and Creager, SE and May, HD},
+  journal={Applied microbiology and biotechnology},
+  volume={78},
+  number={1},
+  pages={147--155},
+  year={2008},
+  publisher={Springer-Verlag}
+}
+
+@article{marshall2009electrochemical,
+  title={Electrochemical evidence of direct electrode reduction by a thermophilic Gram-positive bacterium, Thermincola ferriacetica},
+  author={Marshall, Christopher W and May, Harold D},
+  journal={Energy \& Environmental Science},
+  volume={2},
+  number={6},
+  pages={699--705},
+  year={2009},
+  publisher={Royal Society of Chemistry}
+}
+
+@article{marshall2012electrosynthesis,
+  title={Electrosynthesis of commodity chemicals by an autotrophic microbial community},
+  author={Marshall, Christopher W and Ross, Daniel E and Fichot, Erin B and Norman, R Sean and May, Harold D},
+  journal={Applied and environmental microbiology},
+  volume={78},
+  number={23},
+  pages={8412--8420},
+  year={2012},
+  publisher={American Society for Microbiology}
+}
+
+@article{marshall2013production,
+  title={Production of fuels and chemicals from waste by microbiomes},
+  author={Marshall, Christopher W and LaBelle, Edward V and May, Harold D},
+  journal={Current opinion in biotechnology},
+  volume={24},
+  number={3},
+  pages={391--397},
+  year={2013},
+  publisher={Elsevier Current Trends}
+}
+
+@article{marshall2013long,
+  title={Long-term operation of microbial electrosynthesis systems improves acetate production by autotrophic microbiomes},
+  author={Marshall, Christopher W and Ross, Daniel E and Fichot, Erin B and Norman, R Sean and May, Harold D},
+  journal={Environmental science \& technology},
+  volume={47},
+  number={11},
+  pages={6023--6029},
+  year={2013},
+  publisher={American Chemical Society}
+}
+
+@misc{sowers2011thermophilic,
+  title={Thermophilic methanogenic consortium for conversion of cellulosic biomass to bioenergy},
+  author={Sowers, Kevin R and May, Harold D and Chun, Chanlan and Marshall, Chrisopher William},
+  year={2011},
+  month=dec # "~15",
+  note={US Patent App. 13/027,105}
+}
+
+@misc{may2014microbial,
+  title={Microbial electrosynthetic cells},
+  author={May, Harold and Marshall, Christopher and LaBelle, Edward},
+  year={2014},
+  month=mar # "~20",
+  note={WO Patent WO 2014043690 A1}
+}
+
+@article{labelle2014influence,
+  title={Influence of acidic pH on hydrogen and acetate production by an electrosynthetic microbiome},
+  author={LaBelle, Edward V and Marshall, Christopher W and Gilbert, Jack A and May, Harold D},
+  journal={PloS one},
+  volume={9},
+  number={10},
+  pages={e109935},
+  year={2014},
+  publisher={Public Library of Science}
+}
+
+@article{ross2015draft,
+  title={Draft genome sequence of Sulfurospirillum sp. strain MES, reconstructed from the metagenome of a microbial electrosynthesis system},
+  author={Ross, Daniel E and Marshall, Christopher W and May, Harold D and Norman, R Sean},
+  journal={Genome announcements},
+  volume={3},
+  number={1},
+  pages={e01336--14},
+  year={2015},
+  publisher={American Society for Microbiology}
+}
+
+@article{burgsdorf2015lifestyle,
+  title={Lifestyle evolution in cyanobacterial symbionts of sponges},
+  author={Burgsdorf, Ilia and Slaby, Beate M and Handley, Kim M and Haber, Markus and Blom, Jochen and Marshall, Christopher W and Gilbert, Jack A and Hentschel, Ute and Steindler, Laura},
+  journal={MBio},
+  volume={6},
+  number={3},
+  pages={e00391--15},
+  year={2015},
+  publisher={American Society for Microbiology}
+}
+
+@article{ross2016comparative,
+  title={Comparative genomic analysis of Sulfurospirillum cavolei MES reconstructed from the metagenome of an electrosynthetic microbiome},
+  author={Ross, Daniel E and Marshall, Christopher W and May, Harold D and Norman, R Sean},
+  journal={PloS one},
+  volume={11},
+  number={3},
+  pages={e0151214},
+  year={2016},
+  publisher={Public Library of Science}
+}
+
+@article{zhou2016electron,
+  title={Electron shuttles enhance anaerobic ammonium oxidation coupled to iron (III) reduction},
+  author={Zhou, Guo-Wei and Yang, Xiao-Ru and Li, Hu and Marshall, Christopher W and Zheng, Bang-Xiao and Yan, Yu and Su, Jian-Qiang and Zhu, Yong-Guan},
+  journal={Environmental science \& technology},
+  volume={50},
+  number={17},
+  pages={9298--9307},
+  year={2016},
+  publisher={American Chemical Society}
+}
+
+@article{wang2017changes,
+  title={Changes in land use driven by urbanization impact nitrogen cycling and the microbial community composition in soils},
+  author={Wang, Haitao and Marshall, Christopher W and Cheng, Minying and Xu, Huijuan and Li, Hu and Yang, Xiaoru and Zheng, Tianling},
+  journal={Scientific Reports},
+  volume={7},
+  pages={44049},
+  year={2017},
+  publisher={Nature Publishing Group}
+}
+
+@article{zhou2017biochar,
+  title={Biochar addition increases the rates of dissimilatory iron reduction and methanogenesis in ferrihydrite enrichments},
+  author={Zhou, Guo-Wei and Yang, Xiao-Ru and Marshall, Christopher W and Li, Hu and Zheng, Bang-Xiao and Yan, Yu and Su, Jian-Qiang and Zhu, Yong-Guan},
+  journal={Frontiers in microbiology},
+  volume={8},
+  pages={589},
+  year={2017},
+  publisher={Frontiers}
+}
+
+@article{yang2017overlooked,
+  title={An overlooked nitrogen loss linked to anaerobic ammonium oxidation in estuarine sediments in China},
+  author={Yang, Xiao-Ru and Weng, Bo-Sen and Li, Hu and Marshall, Christopher W and Li, Hong and Chen, Yong-Shan and Yu, Shen and Zhu, Gui-Bing and Zhu, Yong-Guan},
+  journal={Journal of Soils and Sediments},
+  volume={17},
+  number={10},
+  pages={2537--2546},
+  year={2017},
+  publisher={Springer Berlin Heidelberg}
+}
+
+@phdthesis{marshall2013microbial,
+  title={Microbial Extracellular Electron Transfer: MEET Applications for Biotechnology},
+  author={Marshall, Christopher W},
+  year={2013},
+  school={Medical University of South Carolina}
+}
+
+@article{payne2017mesocosm,
+  title={Mesocosm Studies on the Efficacy of Bioamended Activated Carbon for Treating PCB-Impacted Sediment},
+  author={Payne, Rayford B and Ghosh, Upal and May, Harold D and Marshall, Christopher W and Sowers, Kevin R},
+  journal={Environmental science \& technology},
+  volume={51},
+  number={18},
+  pages={10691--10699},
+  year={2017},
+  publisher={American Chemical Society}
+}
+
+@article{marshall2017metabolic,
+  title={Metabolic reconstruction and modeling microbial electrosynthesis},
+  author={Marshall, Christopher W and Ross, Daniel E and Handley, Kim M and Weisenhorn, Pamela B and Edirisinghe, Janaka N and Henry, Christopher S and Gilbert, Jack A and May, Harold D and Norman, R Sean},
+  journal={Scientific Reports},
+  volume={7},
+  number={1},
+  pages={8391},
+  year={2017},
+  publisher={Nature Publishing Group}
+}
+
+@article{ross2017metagenome,
+  title={Metagenome-Assembled Genome Sequences of Acetobacterium sp. Strain MES1 and Desulfovibrio sp. Strain MES5 from a Cathode-Associated Acetogenic Microbial Community},
+  author={Ross, Daniel E and Marshall, Christopher W and May, Harold D and Norman, R Sean},
+  journal={Genome announcements},
+  volume={5},
+  number={36},
+  pages={e00938--17},
+  year={2017},
+  publisher={American Society for Microbiology}
+}
+
+@article{melvin2017pseudomonas,
+  title={Pseudomonas aeruginosa Contact-Dependent Growth Inhibition Plays Dual Role in Host-Pathogen Interactions},
+  author={Melvin, Jeffrey A and Gaston, Jordan R and Phillips, Shawn N and Springer, Michael J and Marshall, Christopher W and Shanks, Robert MQ and Bomberger, Jennifer M},
+  journal={mSphere},
+  volume={2},
+  number={6},
+  pages={e00336--17},
+  year={2017},
+  publisher={American Society for Microbiology Journals}
+}

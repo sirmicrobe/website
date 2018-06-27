@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marshall Lab on Marshall Lab</title>
+    <link>/</link>
+    <description>Recent content in Marshall Lab on Marshall Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Antimicrobial Tolerance and Resistance</title>
+      <link>/project/amr/</link>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/amr/</guid>
+      <description>&lt;p&gt;Using high-throughput, automated serial passaging innovations to study antimicrobial tolerance and resistance in biofilm populations. Specifically, I am interested in multi-strain and species interactions that alter antibiotic resistance outcomes.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Evolution of biofilm-attached pathogens</title>
+      <link>/talk/pmc-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      
+      <guid>/talk/pmc-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Biofilm Surveillance with Bioelectrochemical Systems</title>
+      <link>/project/bes/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/bes/</guid>
+      <description>&lt;p&gt;I use bioelectrochemical systems (electrodes) to monitor electron transfer reactions in biofilms. These systems allow for the real-time study of disturbance challenges, diffusion limitations, and metabolic turnover of the microbial population or community&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

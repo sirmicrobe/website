@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Marshall Lab</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Marshall Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>&lt;br&gt;&lt;br&gt;**Welcome to the BOOM**</title>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Biofilm Origins, Oecology, and Metabolism Exploring the extraordinary metabolic versatility of the microbes in and around us </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Biography Chris Marshall is a research assistant professor in the Department of Microbiology and Molecular Genetics at the University of Pittsburgh. His research interests include the evolution of antimicrobial resistance, eco-evolutionary dynamics, environmental microbiology, bioremediation, and bioelectrochemistry. Chris did his PhD in Hal May&amp;rsquo;s lab at MUSC studying extracellular electron transfer pathways in Gram positive bacteria powering microbial fuel cells and microbial electrosynthesis systems. Following his Phd, Chris won the prestigious Argonne Director&amp;rsquo;s Fellowship and worked with Ken Kemner and Jack Gilbert at Argonne National Laboratory and University of Chicago.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description>Google Scholar Page
+ Melvin J, Gaston J, Phillips S, Springer M, Marshall CW, Shanks R, Bomberger J. Pseudomonas aeruginosa Contact-Dependent Growth Inhibition Plays a Dual Role in Host-Pathogen Interactions. 2017. mSphere. 2 (6). e00336-17.
+ Marshall CW, DE Ross, KM Handley, PB Weisenhorn, CS Henry, JA Gilbert, HD May, RS Norman. Metabolic Reconstruction and Modeling Microbial Electrosynthesis. 2017. Scientific Reports. 10.1038/s41598-017-08877-z (SREP-17-14408).
+ Ross DE, Marshall CW, May HD, Norman RS.</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>Comprehensive Microbiology. University of Pittsburgh. Graduate level. Spring 2018. 2184 MSMI 1100.
+Pseudomonas and Friends Journal Club. University of Pittsburgh.
+Applied and Environmental Microbiology. Duquesne University. Graduate and Undergraduate level. Spring 2017. ENVI 497&amp;frasl;597 BIO 432W/532.
+The Microbiome and Health. Undergraduate level. Univeristy of Chicago. Spring 2015. BIOS 15123.
+General Microbiology. Graduate and Undergraduate level. College of Charleston. 2009 – 2011. Bio 310 / 320.
+Environmental Microbiology. Graduate level. MUSC. Spring 2010 - 2012.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
