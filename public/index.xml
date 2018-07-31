@@ -11,12 +11,31 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>In vivo Evolution</title>
+      <link>/project/invivoevol/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/invivoevol/</guid>
+      <description>&lt;p&gt;Microbial populations rapidly evolve to dynamic environments due to high population sizes and short generation times. Understanding how and why microbes evolve in response to their environment is crucial to treating infections. I am interested in the interface between evolution, ecology, and metabolism, and what these factors can tell us about host adaptation.&lt;/p&gt;
+
+&lt;p&gt;Current projects investigating &lt;em&gt;in vivo&lt;/em&gt; evolution:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Rapid interstrain recombination in &lt;em&gt;Pseudomonas aeruginosa&lt;/em&gt; generates adaptations to biofilm growth during chronic infections&lt;/li&gt;
+&lt;li&gt;Population genomics of &lt;em&gt;Pseudomonas aeruginosa&lt;/em&gt; in response to viral infections in cystic fibrosis&lt;/li&gt;
+&lt;li&gt;Within patient evolution of drug resistant &lt;em&gt;Klebsiella pneumoniae&lt;/em&gt; and &lt;em&gt;Acinetobacter baumannii&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Improving detection of culprit pathogens through bacterial DNA sequencing can impact antibiotic management decisions in severe pneumonia&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Antimicrobial Tolerance and Resistance</title>
       <link>/project/amr/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>/project/amr/</guid>
-      <description>&lt;p&gt;Using high-throughput, automated serial passaging innovations to study antimicrobial tolerance and resistance in biofilm populations. Specifically, I am interested in multi-strain and species interactions that alter antibiotic resistance outcomes.&lt;/p&gt;
+      <description>&lt;p&gt;Antibiotic tolerance is the transcriptional/translational change in metabolism that allows for microorganisms to persist in the presence of antibiotics. Antibiotic resistance, on the other hand, is the heritable changes in genomes that render the antibiotics ineffective. I am interested in using high-throughput, automated serial passaging innovations to study antimicrobial tolerance and resistance in biofilm populations. Specifically, I am interested in multi-strain and species interactions that alter antibiotic resistance outcomes. In addition to microbial community dynamics in the presence of antibiotics, I explore the interplay between tolerance and resistance that arises in anaerobic biofilms.&lt;/p&gt;
 </description>
     </item>
     
@@ -35,7 +54,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>/project/bes/</guid>
-      <description>&lt;p&gt;I use bioelectrochemical systems (electrodes) to monitor electron transfer reactions in biofilms. These systems allow for the real-time study of disturbance challenges, diffusion limitations, and metabolic turnover of the microbial population or community&lt;/p&gt;
+      <description>&lt;p&gt;Life is the movement of electrons for the purpose of energy conservation. The scope of these electron transfer reactions in bacteria and archaea is beautifully eloquent and diverse. I use bioelectrochemical systems (electrodes) to monitor electron transfer reactions in biofilms. These systems allow for the real-time study of metabolic activity, disturbance challenges, diffusion limitations, and turnover of the microbial community.&lt;/p&gt;
 </description>
     </item>
     

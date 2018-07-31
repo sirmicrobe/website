@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Invivoevol on Marshall Lab</title>
+    <link>/tags/invivoevol/</link>
+    <description>Recent content in Invivoevol on Marshall Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 30 Jul 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/invivoevol/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In vivo Evolution</title>
+      <link>/project/invivoevol/</link>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/invivoevol/</guid>
+      <description>Microbial populations rapidly evolve to dynamic environments due to high population sizes and short generation times. Understanding how and why microbes evolve in response to their environment is crucial to treating infections. I am interested in the interface between evolution, ecology, and metabolism, and what these factors can tell us about host adaptation.
+Current projects investigating in vivo evolution:
+ Rapid interstrain recombination in Pseudomonas aeruginosa generates adaptations to biofilm growth during chronic infections Population genomics of Pseudomonas aeruginosa in response to viral infections in cystic fibrosis Within patient evolution of drug resistant Klebsiella pneumoniae and Acinetobacter baumannii Improving detection of culprit pathogens through bacterial DNA sequencing can impact antibiotic management decisions in severe pneumonia  </description>
+    </item>
+    
+  </channel>
+</rss>
