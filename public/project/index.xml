@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Mon, 30 Jul 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jul 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>In vivo Evolution</title>
       <link>/project/invivoevol/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/invivoevol/</guid>
       <description>Microbial populations rapidly evolve to dynamic environments due to high population sizes and short generation times. Understanding how and why microbes evolve in response to their environment is crucial to treating infections. I am interested in the interface between evolution, ecology, and metabolism, and what these factors can tell us about host adaptation.
@@ -26,7 +26,7 @@ Current projects investigating in vivo evolution:
     <item>
       <title>Antimicrobial Tolerance and Resistance</title>
       <link>/project/amr/</link>
-      <pubDate>Tue, 26 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/amr/</guid>
       <description>Antibiotic tolerance is the transcriptional/translational change in metabolism that allows for microorganisms to persist in the presence of antibiotics. Antibiotic resistance, on the other hand, is the heritable changes in genomes that render the antibiotics ineffective. I am interested in using high-throughput, automated serial passaging innovations to study antimicrobial tolerance and resistance in biofilm populations. Specifically, I am interested in multi-strain and species interactions that alter antibiotic resistance outcomes. In addition to microbial community dynamics in the presence of antibiotics, I explore the interplay between tolerance and resistance that arises in anaerobic biofilms.</description>
@@ -35,7 +35,7 @@ Current projects investigating in vivo evolution:
     <item>
       <title>Dynamic Biofilm Surveillance with Bioelectrochemical Systems</title>
       <link>/project/bes/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/project/bes/</guid>
       <description>Life is the movement of electrons for the purpose of energy conservation. The scope of these electron transfer reactions in bacteria and archaea is beautifully eloquent and diverse. I use bioelectrochemical systems (electrodes) to monitor electron transfer reactions in biofilms. These systems allow for the real-time study of metabolic activity, disturbance challenges, diffusion limitations, and turnover of the microbial community.</description>

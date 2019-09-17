@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>&lt;br&gt;&lt;br&gt;**Marshall BOOM Lab**</title>
       <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0500</pubDate>
       
       <guid>/home/hero/</guid>
       <description>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Biofilm Origins, Oecology, and Metabolism Exploring the extraordinary metabolic versatility of the microbes in and around us </description>
@@ -24,7 +24,7 @@
     <item>
       <title></title>
       <link>/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/home/about/</guid>
       <description>Research Overview My research program addresses two grand challenges in science: antimicrobial resistance and quantifying global biogeochemical cycling. In the first, I am interested in how diversity and metabolic changes in biofilms contribute to the alarming and expanding problem of antibiotic resistance. In the second, I study anaerobic metabolisms associated with biogeochemical cycles as a biotechnological and ecological source of innovation. Traditionally these disciplines don’t intersect. I would argue, however, that microbial ecology and evolution mediated by metabolic feedback lie at the core of each.</description>
@@ -33,7 +33,7 @@
     <item>
       <title>Projects</title>
       <link>/home/projects/</link>
-      <pubDate>Fri, 20 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 20 Jul 2018 00:00:00 -0500</pubDate>
       
       <guid>/home/projects/</guid>
       <description></description>
@@ -42,19 +42,19 @@
     <item>
       <title>Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/home/publications/</guid>
       <description>Google Scholar Page
- Santos-Lopez* A, Marshall* CW, Scribner MR, Snyder DJ, Cooper VS. Evolutionary Pathways to Antibiotic Resistance are Dependent Upon Environmental Structure and Bacterial Lifestyle. bioRxiv. 2019. https://doi.org/10.1101/581611.
- Payne RB, Ghosh U, May HD, Marshall CW, Sowers KR. A Pilot-Scale Field Study: In Situ Treatment of PCB-Impacted Sediments with Bioamended Activated Carbon. Environmental Science and Technology. 2019. DOI: 10.1021/acs.est.8b05019
- Gloag* ES, Marshall* CW, Snyder DJ, Lewin GR, Harris JS, Chaney SB, Whiteley M, Cooper VS, Wozniak DJ.</description>
+ Scribner MR, Santos-Lopez A, Marshall CW, Deitrick C, Cooper VS. Parallel evolution of tobramycin resistance across species and environments. bioRxiv. 2019. https://doi.org/10.1101/758979.
+ Santos-Lopez* A, Marshall* CW, Scribner MR, Snyder DJ, Cooper VS. Evolutionary Pathways to Antibiotic Resistance are Dependent Upon Environmental Structure and Bacterial Lifestyle. eLife. 2019. eLife 2019;8:e47612.
+ Lopez S, Martin JM, Johnson M, Kurs-Lasky Horne WT, Marshall CW, Cooper VS, Williams JV, Shaikh N.</description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
       <link>/home/talks/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/home/talks/</guid>
       <description></description>
@@ -63,21 +63,21 @@
     <item>
       <title>Teaching</title>
       <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>Comprehensive Microbiology. University of Pittsburgh. Graduate level. Spring 2018 &amp;amp; Spring 2019. 2184 MSMI 1100.
+      <description>Experimental Microbiology. Marquette University. Undergraduate. Fall 2019. BIO 4802.
+Comprehensive Microbiology. University of Pittsburgh. Graduate level. Spring 2018 &amp;amp; Spring 2019. 2184 MSMI 1100.
 Pseudomonas and Friends Journal Club. University of Pittsburgh.
 Applied and Environmental Microbiology. Duquesne University. Graduate and Undergraduate level. Spring 2017. ENVI 497&amp;frasl;597 BIO 432W/532.
 The Microbiome and Health. Undergraduate level. Univeristy of Chicago. Spring 2015. BIOS 15123.
-General Microbiology. Graduate and Undergraduate level. College of Charleston. 2009 – 2011. Bio 310 / 320.
-Environmental Microbiology. Graduate level.</description>
+General Microbiology. Graduate and Undergraduate level. College of Charleston. 2009 – 2011.</description>
     </item>
     
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
       <link>/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 -0600</pubDate>
       
       <guid>/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
@@ -24,7 +24,7 @@
     <item>
       <title>Amr</title>
       <link>/tags/amr/</link>
-      <pubDate>Tue, 26 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/amr/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Bes</title>
       <link>/tags/bes/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/tags/bes/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Invivoevol</title>
       <link>/tags/invivoevol/</link>
-      <pubDate>Mon, 30 Jul 2018 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 30 Jul 2018 00:00:00 -0500</pubDate>
       
       <guid>/tags/invivoevol/</guid>
       <description></description>

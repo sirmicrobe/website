@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 26 Jun 2018 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/amr/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Antimicrobial Tolerance and Resistance</title>
       <link>/project/amr/</link>
-      <pubDate>Tue, 26 Jun 2018 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 26 Jun 2018 00:00:00 -0500</pubDate>
       
       <guid>/project/amr/</guid>
       <description>Antibiotic tolerance is the transcriptional/translational change in metabolism that allows for microorganisms to persist in the presence of antibiotics. Antibiotic resistance, on the other hand, is the heritable changes in genomes that render the antibiotics ineffective. I am interested in using high-throughput, automated serial passaging innovations to study antimicrobial tolerance and resistance in biofilm populations. Specifically, I am interested in multi-strain and species interactions that alter antibiotic resistance outcomes. In addition to microbial community dynamics in the presence of antibiotics, I explore the interplay between tolerance and resistance that arises in anaerobic biofilms.</description>

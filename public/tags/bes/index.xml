@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 -0500</lastBuildDate>
     
 	<atom:link href="/tags/bes/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Dynamic Biofilm Surveillance with Bioelectrochemical Systems</title>
       <link>/project/bes/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0500</pubDate>
       
       <guid>/project/bes/</guid>
       <description>Life is the movement of electrons for the purpose of energy conservation. The scope of these electron transfer reactions in bacteria and archaea is beautifully eloquent and diverse. I use bioelectrochemical systems (electrodes) to monitor electron transfer reactions in biofilms. These systems allow for the real-time study of metabolic activity, disturbance challenges, diffusion limitations, and turnover of the microbial community.</description>
